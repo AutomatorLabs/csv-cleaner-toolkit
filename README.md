@@ -16,7 +16,7 @@ CSV Cleaner Toolkit is a lightweight offline desktop utility for cleaning messy 
 
 ## Screenshots
 
-### Main Interface
+### Main Interface with Dynamic Preview
 
 ![Screenshot](Screenshots/SCREENSHOT0.png)
 
@@ -24,14 +24,14 @@ CSV Cleaner Toolkit is a lightweight offline desktop utility for cleaning messy 
 
 ![Screenshot](Screenshots/SCREENSHOT2.png)
 
-### Dark / Light Mode
+### Dark / Light Toggle Mode
 
 ![Screenshot](Screenshots/SCREENSHOT3.png)
 
 ![Screenshot](Screenshots/SCREENSHOT4.png)
 
-### Live Preview + Export
-
-![Screenshot](Screenshots/SCREENSHOT5.png)
+### Before CSV Cleanup & After CSV Cleanup + Export (Making a new copy)
 
 ![Screenshot](Screenshots/SCREENSHOT6.png)
+
+![Screenshot](Screenshots/SCREENSHOT5.png)
