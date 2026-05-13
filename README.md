@@ -1,78 +1,37 @@
 # CSV Cleaner Toolkit
 
 <p align="center">
-  <img src="./icon.png" width="160">
+  <img src="Screenshots/csv_icon.png" width="160">
 </p>
 
 <p align="center">
-  <img src="Screenshots/demo.gif" width="900">
+  <img src="Screenshots/CSV CLEANER GIF.gif" width="900">
 </p>
 
 CSV Cleaner Toolkit is a lightweight offline desktop utility for cleaning messy CSV files quickly and locally.
 
-Built for:
+## Messy CSV Example
 
-* freelancers
-* ecommerce sellers
-* analysts
-* virtual assistants
-* developers
-* spreadsheet-heavy workflows
-
-## Features
-
-* Remove duplicate rows
-* Remove empty rows
-* Trim spaces from all cells
-* Normalize headers to lowercase_snake_case
-* Live preview before export
-* Light mode / dark mode
-* Offline workflow
-* No login
-* No subscriptions
-* No cloud uploads
-
-## Why This Tool Exists
-
-Most CSV cleanup tools are:
-
-* bloated
-* online-only
-* subscription-based
-* overkill for simple cleanup tasks
-
-CSV Cleaner Toolkit focuses on one thing:
-cleaning messy CSV files quickly and locally.
-
-## Download
-
-Get the app here:
-
-* Gumroad: ADD_GUMROAD_LINK
-* itch.io: ADD_ITCH_LINK
+![Messy CSV](Screenshots/MESSY%20test.png)
 
 ## Screenshots
 
-### Dark Mode
+### Main Interface
 
-![Dark Mode](Screenshots/dark-mode.png)
+![Screenshot](Screenshots/SCREENSHOT0.png)
 
-### Light Mode
+![Screenshot](Screenshots/SCREENSHOT1.png)
 
-![Light Mode](Screenshots/light-mode.png)
+![Screenshot](Screenshots/SCREENSHOT2.png)
 
-### CSV Preview
+### Dark / Light Mode
 
-![CSV Preview](Screenshots/messy-preview.png)
+![Screenshot](Screenshots/SCREENSHOT3.png)
 
-## System
+![Screenshot](Screenshots/SCREENSHOT4.png)
 
-macOS
+### Live Preview + Export
 
-## Version
+![Screenshot](Screenshots/SCREENSHOT5.png)
 
-v1.0
-
-## Note
-
-This repository is a public product page only. Source code is private.
+![Screenshot](Screenshots/SCREENSHOT6.png)
